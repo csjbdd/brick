@@ -1,0 +1,19 @@
+* {                               
+
+    padding:0;
+    
+    margin:0;
+    
+    }
+    
+    #gameCanvas {
+    
+    background:#eee;       
+    
+    margin:0 auto;          
+    display:block            ;
+    
+    }
+    h1 {
+        text-align:center;    
+    }
